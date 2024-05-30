@@ -1,0 +1,139 @@
+{
+  "data": [
+    {
+      "name": "Acre",
+      "abbreviation": "AC",
+      "capital": "Rio Branco"
+    },
+    {
+      "name": "Alagoas",
+      "abbreviation": "AL",
+      "capital": "Maceió"
+    },
+    {
+      "name": "Amapá",
+      "abbreviation": "AP",
+      "capital": "Macapá"
+    },
+    {
+      "name": "Amazonas",
+      "abbreviation": "AM",
+      "capital": "Manaus"
+    },
+    {
+      "name": "Bahia",
+      "abbreviation": "BA",
+      "capital": "Salvador"
+    },
+    {
+      "name": "Ceará",
+      "abbreviation": "CE",
+      "capital": "Fortaleza"
+    },
+    {
+      "name": "Distrito Federal",
+      "abbreviation": "DF",
+      "capital": "Brasília"
+    },
+    {
+      "name": "Espírito Santo",
+      "abbreviation": "ES",
+      "capital": "Vitória"
+    },
+    {
+      "name": "Goiás",
+      "abbreviation": "GO",
+      "capital": "Goiânia"
+    },
+    {
+      "name": "Maranhão",
+      "abbreviation": "MA",
+      "capital": "São Luís"
+    },
+    {
+      "name": "Mato Grosso",
+      "abbreviation": "MT",
+      "capital": "Cuiabá"
+    },
+    {
+      "name": "Mato Grosso do Sul",
+      "abbreviation": "MS",
+      "capital": "Campo Grande"
+    },
+    {
+      "name": "Minas Gerais",
+      "abbreviation": "MG",
+      "capital": "Belo Horizonte"
+    },
+    {
+      "name": "Pará",
+      "abbreviation": "PA",
+      "capital": "Belém"
+    },
+    {
+      "name": "Paraíba",
+      "abbreviation": "PB",
+      "capital": "João Pessoa"
+    },
+    {
+      "name": "Paraná",
+      "abbreviation": "PR",
+      "capital": "Curitiba"
+    },
+    {
+      "name": "Pernambuco",
+      "abbreviation": "PE",
+      "capital": "Recife"
+    },
+    {
+      "name": "Piauí",
+      "abbreviation": "PI",
+      "capital": "Teresina"
+    },
+    {
+      "name": "Rio de Janeiro",
+      "abbreviation": "RJ",
+      "capital": "Rio de Janeiro"
+    },
+    {
+      "name": "Rio Grande do Norte",
+      "abbreviation": "RN",
+      "capital": "Natal"
+    },
+    {
+      "name": "Rio Grande do Sul",
+      "abbreviation": "RS",
+      "capital": "Porto Alegre"
+    },
+    {
+      "name": "Rondônia",
+      "abbreviation": "RO",
+      "capital": "Porto Velho"
+    },
+    {
+      "name": "Roraima",
+      "abbreviation": "RR",
+      "capital": "Boa Vista"
+    },
+    {
+      "name": "Santa Catarina",
+      "abbreviation": "SC",
+      "capital": "Florianópolis"
+    },
+    {
+      "name": "São Paulo",
+      "abbreviation": "SP",
+      "capital": "São Paulo"
+    },
+    {
+      "name": "Sergipe",
+      "abbreviation": "SE",
+      "capital": "Aracaju"
+    },
+    {
+      "name": "Tocantins",
+      "abbreviation": "TO",
+      "capital": "Palmas"
+    }
+  ]
+}

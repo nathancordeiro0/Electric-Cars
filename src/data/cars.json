@@ -1,0 +1,172 @@
+{
+  "data": [
+
+    {
+      "brand": "BYD",
+      "model": "BYD Han EV",
+      "autonomy": 500,
+      "source": "/src/assets/carros/BYD_han_EV.jpg"
+    },
+
+    {
+      "brand": "BYD",
+      "model": "BYD Song Plus EV",
+      "autonomy": 105,
+      "source": "/src/assets/carros/BYD_song_plus.jpg"
+    },
+
+    {
+      "brand": "BYD",
+      "model": "BYD Tang EV",
+      "autonomy": 430,
+      "source": "/src/assets/carros/BYD_tang.jpg"
+    },
+
+    {
+      "brand": "BYD",
+      "model": "BYD Yuan Pro EV",
+      "autonomy": 401,
+      "source": "/src/assets/carros/BYD_yuan_pro.png"
+    },
+
+    {
+      "brand": "BYD",
+      "model": "BYD Dolphin",
+      "autonomy": 280,
+      "source": "/src/assets/carros/BYD_dolphin.jpg"
+    },
+
+    {
+      "brand": "Chery",
+      "model": "Chery eQ1",
+      "autonomy": 301,
+      "source": "/src/assets/carros/Chery_eQ1.jpeg"
+    },
+
+    {
+      "brand": "JAC",
+      "model": "JAC E-JS4",
+      "autonomy": 256,
+      "source": "/src/assets/carros/JAC_js4.jpg"
+    },
+
+    {
+      "brand": "JAC",
+      "model": "JAC E-JS7",
+      "autonomy": 402,
+      "source": "/src/assets/carros/JAC_js7.jfif"
+    },
+
+    {
+      "brand": "JAC",
+      "model": "JAC iEV60",
+      "autonomy": 304,
+      "source": "/src/assets/carros/JAC_iev40.jpg"
+    },
+
+    {
+      "brand": "JAC",
+      "model": "JAC iEV60 Pro",
+      "autonomy": 380,
+      "source": "/src/assets/carros/JAC_iev60.png"
+    },
+
+    {
+      "brand": "Chevrolet",
+      "model": "Chevrolet Bolt EV",
+      "autonomy": 390,
+      "source": "/src/assets/carros/Chevrolet_bolt_ev.jpg"
+    },
+
+    {
+      "brand": "Fiat",
+      "model": "Fiat 500e",
+      "autonomy": 227,
+      "source": "/src/assets/carros/FIAT-500e.jpg"
+    },
+
+    {
+      "brand": "Ford",
+      "model": "Ford Mustang Mach-E",
+      "autonomy": 379,
+      "source": "/src/assets/carros/ford_mustang_mach-e.jfif"
+    },
+
+    {
+      "brand": "Hyundai",
+      "model": "Hyundai Ioniq 5",
+      "autonomy": 448,
+      "source": "/src/assets/carros/HYUNDAI_ioniq_5.jpg"
+    },
+
+    {
+      "brand": "Hyundai",
+      "model": "Hyundai Kona Electric",
+      "autonomy": 377,
+      "source": "/src/assets/carros/HYUNDAI_kona.jpg"
+    },
+
+    {
+      "brand": "Kia",
+      "model": "Kia Niro EV",
+      "autonomy": 800,
+      "source": "/src/assets/carros/KIA_niro_ev.jpg"
+    },
+
+    {
+      "brand": "Kia",
+      "model": "Kia EV6",
+      "autonomy": 530,
+      "source": "/src/assets/carros/KIA_ev6.jpeg"
+    },
+
+    {
+      "brand": "Renault",
+      "model": "Renault Kwid E-Tech",
+      "autonomy": 186,
+      "source": "/src/assets/carros/RENAULT_kwid_e-tech.jpg"
+    },
+
+    {
+      "brand": "Tesla",
+      "model": "Tesla Model 3",
+      "autonomy": 476,
+      "source": "/src/assets/carros/TESLA_model3.jpg"
+    },
+
+    {
+      "brand": "Tesla",
+      "model": "Tesla Model Y",
+      "autonomy": 688,
+      "source": "/src/assets/carros/TESLA_modelY.jpg"
+    },
+
+    {
+      "brand": "Volvo",
+      "model": "XC40 Recharge Pure EV",
+      "autonomy": 460,
+      "source": "/src/assets/carros/VOLVO_recharge-pure.jpeg"
+    },
+
+    {
+      "brand": "MINI",
+      "model": "Mini Cooper SE",
+      "autonomy": 161,
+      "source": "/src/assets/carros/COOPER_mini-se.jpg"
+    },
+
+    {
+      "brand": "Peugeot",
+      "model": "Peugeot e-208",
+      "autonomy": 220,
+      "source": "/src/assets/carros/PEUGEOT_e-208.jpg"
+    },
+
+    {
+      "brand": "Citroen",
+      "model": "Citroen e-C4 Cactus",
+      "autonomy": 350,
+      "source": "/src/assets/carros/CITROEN_e-c4-cactus.jpg"
+    }
+  ]
+}

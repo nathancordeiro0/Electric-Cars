@@ -1,0 +1,7 @@
+/* app global css */
+
+.borda-redonda { border-radius: 7.5px; }
+
+.zoom-card:hover { transform: scale(1.02); }
+
+.tamanho-modal { min-width: 40vw; }
