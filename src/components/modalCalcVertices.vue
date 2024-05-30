@@ -126,11 +126,11 @@ const distanceBetweenPoints = ref(null)
 const points = ref(null)
 const result = ref(false)
 
-const getStates = () => {
-  axios.get('src/data/states.json')
+const getStates = async () => {
+  await axios.get('https://json-server-rho-nine.vercel.app/states')
     .then(response => {
-      states.value = response.data.data
-      stringOptions.value = response.data.data.map(item => item.name)
+      states.value = response.data
+      stringOptions.value = response.data.map(item => item.name)
       options.value = stringOptions.value
     })
 }

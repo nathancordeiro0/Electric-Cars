@@ -71,14 +71,28 @@ const filterString = ref('')
 const filterBrand = ref(null)
 const options = ref([])
 
-const getCars = () => {
-  axios.get('src/data/cars.json')
-    .then(response => {
-      cars.value = response.data.data
-      options.value = response.data.data
-        .map(item => item.brand)
-        .filter((value, index, self) => self.indexOf(value) === index)
-    })
+// const getCars = () => {
+//   axios.get('https://json-server-rho-nine.vercel.app/cars')
+//     .then(response => {
+//       cars.value = response.data.data
+//       options.value = response.data.data
+//         .map(item => item.brand)
+//         .filter((value, index, self) => self.indexOf(value) === index)
+//     })
+// }
+
+const getCars = async () => {
+  try {
+    await axios.get('https://json-server-rho-nine.vercel.app/cars')
+      .then(response => {
+        cars.value = response.data
+        options.value = response.data
+          .map(item => item.brand)
+          .filter((value, index, self) => self.indexOf(value) === index)
+      })
+  } catch (error) {
+    console.log(error)
+  }
 }
 
 const filteredCars = computed(() => {
